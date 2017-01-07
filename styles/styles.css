@@ -1,4 +1,4 @@
-h1, h2, h3{
+h1, h2, h3,h4{
 	color:red;
 	font-size: 2rem;
 	text-transform: uppercase;
@@ -10,4 +10,7 @@ p{
 }
 .p2{
 	font-family: Helvetica, sans-serif;
+}
+.p3{
+	color:green;
 }
