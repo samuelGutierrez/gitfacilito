@@ -1,6 +1,8 @@
-h1, h2{
+h1, h2, h3{
 	color:red;
 	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
 }
 p{
 	color:#ccc;
